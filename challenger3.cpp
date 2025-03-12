@@ -19,7 +19,7 @@ return msg;
 }
 int main()
 {
- int n;
+ string n;
     cin>>n;
-    cout<<turnCalc(to_string(n));  
+    cout<<turnCalc(n);  
 }
